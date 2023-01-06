@@ -15,8 +15,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = 28522624
 API_HASH = "d9aabb5b9ba44df0f626321d484e9faa"
 BOT_TOKEN = "5723485979:AAEmuMveSVCkJ8t0rubLs015g8f4kCEd2GE"
-SESSION = "AQC8TAGPnGpg_wBdnvQIwNW-hNNEMkeI6Pho006pbrjN_nnTq1Ittvk2Kop9Td-8x4sShRderu79a0q5poRfD56x5cYbyMmptzhmuSdsEzElR3W9IUkY8o0jjgdRvY3vjGM9wmmuE3bT6nhfzDs8tpruV7yZ68EteGujPECeDoAK8oCzYZOy2mRYobU_skJ1D8nitgQeOs4zaaDqTJPWNvWnk243T4vG1eiHEHh9E7CNe0wssTshM5lNgPc2_AR8MrVTK0t_PjH1IN6501-nqf55RPntBjO7fVoJu75awfJ2tr7DrGs8ZHXmU14LDTLTOJjclMgea3VahP7GQaBt16ibAAAAAU0iIwkA"
-FORCESUB = "VyctanClone_bot"
+SESSION = "AQAVkM9v70qLhNTv8L1qAzm4ryKmPVN1epXQUjXtOu_VMVrllxZNUHuBC3TF3Hp77EKTKdXXsNBIS5KQpg1H5c37TSadDfAen6GZZMqHCJRxTY-qD0AJpGOBqKkCE-b18BofwsvDHwGaKeONvA96hiXmsU-y51PmzH-xj7ZQNgZ4OM5EeLb8sJKhylPannjNrHOxPMCBLYhL9vpocmgph-fQYDmk_pGvlg_yor4BE5EH3uOTEykq_s6_c2hOEUPt1w9LXXGgP0wyX0-UjH2ogt8kHJybWRXJj2fwmYSt-r_eG6DZy1e3rw9EPCJ6zmOGHRb450uGgNzRjz_OVnZwuQfZAAAAAU0iIwkA"
+FORCESUB = "VyctanClone"
 AUTH = 5589050121
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
